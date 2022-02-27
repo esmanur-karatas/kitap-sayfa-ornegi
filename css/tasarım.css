@@ -1,0 +1,70 @@
+body {
+    background-image: url("/png/minimalism-purple-background-stars-moon-patterns-2K-wallpaper.jpg");
+    background-repeat: round;
+}
+
+img {
+    border: #F0F8FF align="center"
+}
+
+h1 {
+    color: #603601;
+    text-align: center;
+    font-size: 35px;
+}
+
+nav {
+    text-align: center;
+    color: #CC9544;
+}
+
+h2 {
+    color: #603601;
+    text-align: center;
+    font-size: 18px;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+​ article {
+    color: #CC9544;
+    text-align: center;
+}
+
+li {
+    color: #CC9544;
+}
+
+a {
+    color: #CC9544;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #CC9544;
+}
+
+h3 {
+    color: #603601;
+    text-align: center;
+    font-size: 16px;
+}
+
+footer {
+    text-align: left;
+    color: #CC9544
+}
+
+div {
+    text-align: center;
+    border: 1px solid white;
+    margin-bottom: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
